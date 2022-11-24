@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @MarcReetz
-- 🌱 I’m currently learning Javascript and GO 
-- 🧠 I have some experience in Java, Html, Css, ... and more!
-- 📫 How to reach me: ....
+- 🌱 I’m currently learning Typescript and GO 
+- 🧠 I have experience with: Javascript, Html, CSS, React, SQL, GO. 
+- 👓 I have some experience in Java, C#. and more!
+- 📫 Checkout my portfolio page to reach me.
+- 👔 Open for job offers
 
 <!---
 MarcReetz/MarcReetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
