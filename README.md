@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcReetz
 - 🌱 I’m currently learning Docker, DevOps, Typescript and GO 
 - 🧠 I have experience with: Javascript, Html, CSS, React, SQL, GO. 
-- 👓 I have some experience in Java, C#. and more!
+- 👓 I have some experience in Java and more!
 - 📫 Checkout my portfolio page to reach me.
 - 👔 Open for job offers
 
